@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+docs/
+*.o
+*.a
+*.so
+*.csv
+__pycache__/
+.DS_Store
