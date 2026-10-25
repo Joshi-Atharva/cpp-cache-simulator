@@ -1,0 +1,8 @@
+# With 128 B capacity, 64 B blocks, and direct mapping,
+# addresses 0x0 and 0x80 map to the same set.
+R 0x0
+R 0x80
+R 0x0
+R 0x80
+R 0x0
+R 0x80

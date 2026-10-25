@@ -1,0 +1,9 @@
+# Sequential block accesses; each address is one modeled access.
+R 0x1000
+R 0x1040
+R 0x1080
+R 0x10C0
+R 0x1100
+R 0x1140
+R 0x1180
+R 0x11C0
